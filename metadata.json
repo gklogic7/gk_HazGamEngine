@@ -1,0 +1,6 @@
+{
+  "name": "VanillaLab - Offline HTML, CSS & JavaScript Studio",
+  "description": "A lightweight, 100% offline-ready vanilla HTML, CSS, and JavaScript development studio with live sandbox, interactive vanilla projects, console, and instant zip/file export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
